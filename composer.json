@@ -1,0 +1,8 @@
+{
+    "name": "facade-example",
+    "autoload": {
+        "psr-4": {
+            "Acme\\": "src"
+        }
+    }
+}
