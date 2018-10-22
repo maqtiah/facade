@@ -1,4 +1,4 @@
-# Facades
+# Facade
 
 > This repository is made from an original [post I made back in 2014/2015](https://laracasts.com/discuss/channels/general-discussion/how-does-laravel-exclude-namespaces-in-some-files).
 
